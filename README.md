@@ -2,6 +2,10 @@
 
 **Akash Kamalesh ⋅ Anirudh Lakhotia ⋅ Nischal S ⋅ Prerana Sanjay Kulkarni ⋅ Gowri Srinivasa**
 
+<p align="center">
+  <a href="https://openreview.net/pdf?id=n6W0QkQBgw">Paper</a>
+</p>
+
 Accepted to the **NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML)**. This repository contains the official code implementation of the paper.
 
 ![Overall accuracy comparison](overall_accuracy_comparison.png)
